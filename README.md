@@ -1,2 +1,2 @@
 # Site-Folk
-Projeto de site para uma micro empresa
+Projeto pessoal de site para uma micro empresa de personalizados
